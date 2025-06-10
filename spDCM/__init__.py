@@ -1,0 +1,2 @@
+def spDCM():
+    return None
